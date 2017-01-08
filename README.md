@@ -2,7 +2,7 @@
 
 ## This
 - Clone from https://github.com/blei-lab/ctr
-- install and config gsl
+- install and config gsl, modify the gsl path in Makefile
 - make ctr and lda
 - download example data from "Sample data"
 - ./run.sh
