@@ -1,11 +1,12 @@
 # ctr
 
 ## This
-- Clone from https://github.com/blei-lab/ctr
-- install and config gsl, modify the gsl path in Makefile
-- make ctr and lda
-- download example data from "Sample data"
-- ./run.sh
+This is cloned from https://github.com/blei-lab/ctr and https://github.com/blei-lab/lda-c
+
+1. install and config gsl, modify the gsl path in Makefile
+2. make ctr and lda
+3. download example data from "Sample data"
+4. ./run.sh
 
 ## That
 
